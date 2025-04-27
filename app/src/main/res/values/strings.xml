@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmailApplication</string>
+    <string name="message">Message</string>
+    <string name="send">SEND</string>
+    <string name="sub">Sub:</string>
+    <string name="email">Email</string>
+</resources>
